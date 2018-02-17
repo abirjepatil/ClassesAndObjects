@@ -23,6 +23,6 @@ print(mDao.mDbQuery);
 
 setattr(mDao,"mDbQuery","Value Changed");
 
-pri
+__del__();
 
 
